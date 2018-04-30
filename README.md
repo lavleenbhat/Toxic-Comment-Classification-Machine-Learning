@@ -8,5 +8,4 @@ The repository contains
 3. Project Presentation
 4. Videocast of presentation
 
-You can check the videocast on YouTube on below link:
 
