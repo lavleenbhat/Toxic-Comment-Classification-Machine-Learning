@@ -1,5 +1,5 @@
-# CA684-Machine-Learning
-Machine Learning Project Repository
+Project: Toxic Comment Classification
+Data: Comments from Wikipedia's talk page edits (source: Kaggle)
 
 
 The repository contains
